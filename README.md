@@ -1,7 +1,7 @@
 # CAPSTONE-PROJECT-POWER-BI-DASHBOARD
 ## Situation: To develop a comprehensive dashboard to address key business analytics for a retail dataset that provide real time insights into key performance metrics and trends also analyse the delayed, revenue and sales patterns.
 
-## Task: Develop an interactive dashboard
+## Task: Develop an interactive dashboard.
 .
 ## Action: Developed an interactive dashboard using orders, products and customer data from a excel sheet to provide real-time insights. Streamlined data processing & analysis to monitor key performance metrics and trends.
 
